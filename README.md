@@ -1,1 +1,1 @@
-"# ProjectChatBot"  
+We have developed a basic chatbot utilizing PyTorch and Deep Learning. Additionally, an introduction to fundamental Natural Language Processing (NLP) techniques has been provided. This encompasses theoretical aspects and NLP concepts such as Stemming, Tokenization, and the Bag of Words model. The process includes the creation of training data, the implementation of a PyTorch model, and the subsequent training phase. Further, we have incorporated functionality to save and load the model, facilitating seamless implementation of the chatbot.
